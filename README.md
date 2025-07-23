@@ -84,4 +84,3 @@ As you can see from the output, the memory usage for the `integers` and `floats`
 
 To use this library, you can clone the repository and import the `optimize_dtypes` function from the `datatypesoptimizer.dataOptimizer` module.
 
-*Note: This library is not yet available on PyPI.*
