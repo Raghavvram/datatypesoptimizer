@@ -1,6 +1,6 @@
 [project]
 name = "datatypesoptimizer"
-version = "0.1.0"
+version = "0.1.1"
 description = "A robost data type optimizer for pandas dataframe"
 readme = "README.md"
 authors = [
