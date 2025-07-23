@@ -1,6 +1,6 @@
 [project]
 name = "datatypesoptimizer"
-version = "0.1.1"
+version = "0.1.2"
 description = "A robost data type optimizer for pandas dataframe"
 readme = "README.md"
 authors = [
@@ -10,6 +10,8 @@ requires-python = ">=3.12"
 dependencies = [
     "pandas>=2.3.1",
 ]
+
+license = "MIT License"
 
 [project.scripts]
 datatypesoptimizer = "datatypesoptimizer:main"
